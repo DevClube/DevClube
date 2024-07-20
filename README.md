@@ -2,11 +2,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevClube&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevClube&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
 
+<!--
+<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+-->
+
+<a href="https://github.com/DevClube?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=DevClube&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@DevClube's github-readme-stats"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DevClube&theme=tokyonight-duo&mode=weekly" alt="GitHub Streak" /></a>
+
+</p>
 
 ###
 # 💻 My favorite tools and technologies
@@ -115,11 +120,5 @@
 
 ###
 
-<br clear="both">
 
-<video width="100%" height="360" >
-        <source src="design.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-</video>
 
-###
